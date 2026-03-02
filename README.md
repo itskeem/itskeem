@@ -1,7 +1,3 @@
-Markdown
-Copy
-Code
-Preview
 <div align="center">
 
 # 👋 Hey, I'm Neo Keem
@@ -17,8 +13,6 @@ Preview
 ---
 
 ## 🚀 What I Do
-
-```diff
 +  Building scalable web applications
 +  Crafting intuitive user experiences  
 +  Exploring emerging technologies
@@ -65,4 +59,4 @@ https://ko-fi.com/yourprofile
 💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
 <img src="https://komarev.com/ghpvc/?username=itskeem&color=00D9FF&style=flat-square&label=Profile+Views" />
 </div>
-```
+
