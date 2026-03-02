@@ -1,83 +1,68 @@
-# 👨‍💻 Marcos Kim - Tech Enthusiast & Web Developer
-
+Markdown
+Copy
+Code
+Preview
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+
+# 👋 Hey, I'm Neo Keem
+
+**Full-Stack Developer** | **Open Source Contributor** | **Tech Explorer**
+
+*Building digital experiences that matter*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Clean+Code+Enthusiast;Problem+Solver;Always+Learning;Coffee+%E2%98%95+to+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🚀 **About Me**
+## 🚀 What I Do
 
-```javascript
-const marcos = {
-    role: "Web Developer",
-    passion: "Building cool stuff with code",
-    currentFocus: "Full Stack Development",
-    funFact: "I turn coffee into code ☕",
-    motto: "Solve problems, create value, repeat"
-};
-📱 Connect With Me
-<div align="center">
-https://img.shields.io/badge/Instagram-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
-https://img.shields.io/badge/X-%2523000000.svg?style=for-the-badge&logo=X&logoColor=white
-https://img.shields.io/badge/Twitch-%25239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white
-https://img.shields.io/badge/Reddit-%2523FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white
-https://img.shields.io/badge/Pinterest-%2523E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-</div>
-💻 Tech Stack
-Languages
-<div align="center">
-https://img.shields.io/badge/html5-%2523E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/css3-%25231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E
-https://img.shields.io/badge/php-%2523777BB4.svg?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-https://img.shields.io/badge/c++-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white
-https://img.shields.io/badge/c%2523-%2523239120.svg?style=for-the-badge&logo=csharp&logoColor=white
-
-</div>
-Frameworks & Libraries
-<div align="center">
-https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB
-https://img.shields.io/badge/angular.js-%2523E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white
-https://img.shields.io/badge/django-%2523092E20.svg?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
-https://img.shields.io/badge/bootstrap-%25238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
-
-</div>
-Databases
-<div align="center">
-https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-
-</div>
+```diff
++  Building scalable web applications
++  Crafting intuitive user experiences  
++  Exploring emerging technologies
++  Contributing to open source
+🛠️ Tech Arsenal
+Frontend
+https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white
+Backend
+https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white
+https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white
+Database & Tools
+https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
 📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itskeem&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskeem&theme=dark&hide_border=false" width="48%" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskeem&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="40%" /> </div>
-🏆 GitHub Trophies
 <div align="center">
-https://github-profile-trophy.vercel.app/?username=itskeem&theme=radical&no-frame=false&no-bg=true&margin-w=4
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itskeem&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskeem&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<br/>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=itskeem&theme=tokyo-night&hide_border=true&area=true" />
 </div>
-🎯 Current Focus
-text
-🎓 Learning: React, Node.js, Cloud Computing
-🔨 Building: Portfolio, Web Apps, Open Source
-⭐ Goals: Full Stack Dev, Tech Community, Problem Solving
-💭 Random Dev Quote
+🌐 Connect With Me
 <div align="center">
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-
+https://your-portfolio.com
+https://linkedin.com/in/yourprofile
+https://x.com/lit_keem
+https://instagram.com/neo_keem
+mailto:marcoskim175@gmail.com
 </div>
-💖 Support My Work
+☕ Support My Work
 <div align="center">
-If you like what I do, consider buying me a coffee! ☕
-
-https://img.shields.io/badge/Buy%2520Me%2520a%2520Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=itskeem&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
-⭐ From itskeem
-Thanks for visiting! Feel free to reach out for collaborations or just a chat. 🚀
-
-</div> 
+https://buymeacoffee.com/neo_keem
+https://ko-fi.com/yourprofile
+</div>
+<div align="center">
+💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
+<img src="https://komarev.com/ghpvc/?username=itskeem&color=00D9FF&style=flat-square&label=Profile+Views" />
+</div>
+```
