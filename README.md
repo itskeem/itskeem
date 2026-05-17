@@ -21,10 +21,10 @@
 
 A passionate web developer who loves crafting clean, functional digital experiences. I thrive at the intersection of design and logic — whether that's building robust backends, polished UIs, or solving problems others haven't thought of yet.
 
-- 🔭 &nbsp;Currently building full-stack web apps
-- 🌱 &nbsp;Always exploring new frameworks and tools  
-- 💡 &nbsp;I believe good code should be readable, not just functional
-- 📬 &nbsp;Reach me at **marcoskim175@gmail.com**
+- &nbsp;Currently building full-stack web apps
+- &nbsp;Always exploring new frameworks and tools  
+- &nbsp;I believe good code should be readable, not just functional
+- &nbsp;Reach me at **marcoskim175@gmail.com**
 
 ---
 
