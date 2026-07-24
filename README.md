@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 Hey, I'm Keem
+##  Hey, I'm Keem
 
 A passionate web developer who loves crafting clean, functional digital experiences. I thrive at the intersection of design and logic — whether that's building robust backends, polished UIs, or solving problems others haven't thought of yet.
 
@@ -28,7 +28,7 @@ A passionate web developer who loves crafting clean, functional digital experien
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -54,7 +54,7 @@ A passionate web developer who loves crafting clean, functional digital experien
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -68,7 +68,7 @@ A passionate web developer who loves crafting clean, functional digital experien
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
