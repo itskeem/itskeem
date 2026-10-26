@@ -15,10 +15,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=itskeem&style=for-the-badge&color=6EE7B7&labelColor=0f172a&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/itskeem?style=for-the-badge&color=6EE7B7&labelColor=0f172a&logo=github&logoColor=white)
-![Location](https://img.shields.io/badge/Nairobi-Kenya-6EE7B7?style=for-the-badge&labelColor=0f172a&logo=googlemaps&logoColor=white)
-
 </div>
 
 ---
@@ -175,7 +171,7 @@ One-sentence pitch: what it solves and for whom.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoskim175@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/lit_keem)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/neo_keem)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/neo.keem)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/neo_keem)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/OutrageousAd1387)
 
